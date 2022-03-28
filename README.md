@@ -1,6 +1,4 @@
-# shiny-octo-waddle
-
-HANGMAN
+# HANGMAN
 
 A well-known game welcomes you!
 
