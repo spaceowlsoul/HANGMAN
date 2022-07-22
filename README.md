@@ -1,4 +1,4 @@
-# HANGMAN
+### :loop: HANGMAN
 
 A well-known game welcomes you!
 
