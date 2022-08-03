@@ -1,4 +1,4 @@
-### :loop: HANGMAN
+### :knife: HANGMAN
 
 A well-known game welcomes you!
 
